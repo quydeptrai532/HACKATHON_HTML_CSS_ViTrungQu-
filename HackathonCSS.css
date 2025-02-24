@@ -13,15 +13,13 @@
 body {
     background-color: #F5F5F5;
     font-family: var(--text-font);
-    display: flex;
-    justify-content: center;
-    align-items: baseline;
-   
 }
 .container{
-   max-width: 1162px;
-   max-height: 2041px;
-}
+    max-width: 1162px;
+    max-height: 2041px;
+ }
+ 
+
 
 .home {
     color: #8695A4;
@@ -192,9 +190,9 @@ i {
     .header-nav a {
         display: none;
     }
-    .hide {
-        display: block;
-    }
+   .hide{
+    display: block;
+   }
     .menu-icon {
         display: block;
     }
